@@ -1,1 +1,0 @@
-/usr/bin/g++    -std=c++11  -Wall  -Wextra  -Wshadow  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wstrict-aliasing   CMakeFiles/register_benchmark_test.dir/register_benchmark_test.cc.o  -o register_benchmark_test ../src/libbenchmark.a -pthread /usr/lib64/librt.so 

@@ -1,1 +1,0 @@
-/usr/bin/g++    -std=c++11  -Wall  -Wextra  -Wshadow  -pedantic  -pedantic-errors  -fstrict-aliasing  -Wno-deprecated-declarations  -Wstrict-aliasing   CMakeFiles/map_test.dir/map_test.cc.o  -o map_test ../src/libbenchmark.a -pthread /usr/lib64/librt.so 
